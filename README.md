@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @STAMcM.
-- 👀 I’m interested in R, Python and data.
-- 🌱 I’m currently learning AWS.
+- I’m @STAMcM.
+- I’m interested in R, Python and data.
+- I’m currently learning AWS.
 
 <!---
 STAMcM/STAMcM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
